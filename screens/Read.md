@@ -1,0 +1,3 @@
+- Can include Dark Mode/Light Mode feature
+- App Name ideas
+ - 
